@@ -5,6 +5,6 @@ In the way to share our experiences on Clean Architecture, we planned a speak an
 
 Feel free of forking them and reuse it wherever you want.
 
-There's a question? Open an [issue](https://github.com/schibsted-android-training/workshop-5/issues/new)!
+**There's a question?** **[Open an issue](https://github.com/schibsted-android-training/workshop-5/issues/new)**!
 
-<iframe src="http://es.slideshare.net/rocboronat/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+**Do you want to see it online?** **[Tap this lovely link](http://es.slideshare.net/rocboronat/introducing-clean-architecture-61200981)**!
